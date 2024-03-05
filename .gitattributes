@@ -1,5 +1,4 @@
 *.apk filter=lfs diff=lfs merge=lfs -text
-*.psd filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
 Provisioning[[:space:]]Tool/ filter=lfs diff=lfs merge=lfs -text
 
